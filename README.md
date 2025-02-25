@@ -6,7 +6,9 @@ The Customer Churn Prediction System is an AI-powered chatbot designed to help t
 
 It provides:
 ✅ Customer churn predictions based on extracted customer details.
+
 ✅ Probabilities of churn risk to help businesses take preventive actions.
+
 ✅ AI-powered analysis of the prediction to provide insights into customer behavior.
 
 The backend is built using FastAPI, while the frontend is developed with Streamlit for an interactive chatbot experience.
@@ -34,9 +36,13 @@ The chatbot presents the prediction, probability, and insights in a human-friend
 
 ## Features
 ✅ Conversational AI Interface – Uses natural language processing to extract customer data.
+
 ✅ ML-Powered Churn Prediction – Predicts customer retention likelihood with high accuracy.
+
 ✅ LLM-Based Explanation – Provides an AI-generated interpretation of the prediction.
+
 ✅ FastAPI Backend – Ensures a scalable and efficient API service.
+
 ✅ Streamlit Frontend – Offers a user-friendly chatbot interface for interaction.
 
 ## Tech Stack
@@ -52,6 +58,8 @@ The chatbot presents the prediction, probability, and insights in a human-friend
 **Data Processing:** Pandas, NumPy, Scikit-learn
 
 
-Eaxple for the result:
+### Eaxple for the result:
+
+
 ![output 1](https://github.com/user-attachments/assets/16d854c0-eff4-4bea-ba63-e78efeb3efdf)
 
