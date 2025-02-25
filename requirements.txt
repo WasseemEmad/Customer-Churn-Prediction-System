@@ -1,0 +1,11 @@
+langchain
+ast
+re
+streamlit
+fastapi
+pandas
+numpy
+scikit-learn
+uvicorn
+pickle
+requests
