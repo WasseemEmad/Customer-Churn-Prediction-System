@@ -5,6 +5,7 @@
 The Customer Churn Prediction System is an AI-powered chatbot designed to help telecom companies predict customer churn. By leveraging Machine Learning (ML) and a Large Language Model (LLM), this system allows marketing teams to interact with the churn prediction model using natural language.
 
 It provides:
+
 ✅ Customer churn predictions based on extracted customer details.
 
 ✅ Probabilities of churn risk to help businesses take preventive actions.
